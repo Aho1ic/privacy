@@ -2,10 +2,10 @@
   "schema": 1,
   "app": "com.lyx.openhongguo.demo",
   "displayName": "短剧片库",
-  "latestBuild": 11,
+  "latestBuild": 12,
   "version": "1.0",
   "channel": "testflight",
   "notes": "补上播放接口的 Argus/Ladon 签名，修复新匿名设备播不了的问题",
   "testflight": "https://testflight.apple.com/join/jm4ByF2E",
-  "publishedAt": "2026-11-11T22:55:00+08:00"
+  "publishedAt": "2026-11-14T12:59:04+08:00"
 }
